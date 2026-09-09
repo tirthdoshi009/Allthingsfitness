@@ -2,6 +2,8 @@
 
 **Author:** Mark Rippetoe (with Lon Kilgore)
 **Published:** 2005, third edition 2011
+**Category:** Strength
+**Status:** Read
 **One line:** A technical manual for five barbell lifts, wrapped around the argument that a
 novice should add weight every session for as long as that keeps working.
 
