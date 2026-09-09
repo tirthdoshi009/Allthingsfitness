@@ -1,9 +1,12 @@
 # Title
 
-**Author:** 
-**Published:** 
-**Read:** 
-**One line:** 
+- **Author:** 
+- **Published:** 
+- **Category:** Strength / Endurance / Physiology / Recovery / Mind
+- **Status:** Reading or Read
+- **Rating:** out of five, optional
+
+**One line:** The thesis in a sentence.
 
 ## Why I picked it up
 
@@ -30,8 +33,8 @@ story standing in for a result.
 Concrete and testable. A change to programming, a metric to track, a habit to run for four
 weeks and evaluate.
 
-1. 
-2. 
+- [ ] 
+- [ ] 
 
 ## Verdict
 
