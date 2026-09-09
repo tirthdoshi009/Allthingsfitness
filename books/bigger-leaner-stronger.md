@@ -34,7 +34,3 @@ internet.
 
 The supplement discussion feels more confident than the evidence warrants, and the tone assumes a
 reader whose main constraint is effort. Mine is usually time.
-
-## Related reading
-
-- [Atomic Habits](./atomic-habits.md) — how to actually show up for the programme.

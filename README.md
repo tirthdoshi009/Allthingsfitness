@@ -13,9 +13,7 @@ walk, the repository has paid for itself.
 
 | Book | Author | Category | Status | Notes |
 | --- | --- | --- | --- | --- |
-| Atomic Habits | James Clear | Habits / Mindset | Finished | [Notes](./books/atomic-habits.md) |
 | Bigger Leaner Stronger | Michael Matthews | Training / Nutrition | Reading | [Notes](./books/bigger-leaner-stronger.md) |
-| Why We Sleep | Matthew Walker | Recovery | To read | [Notes](./books/why-we-sleep.md) |
 
 ## How this repository is organised
 
@@ -24,7 +22,6 @@ walk, the repository has paid for itself.
 ├── README.md          # this file, including the reading list above
 ├── CONTRIBUTING.md    # how to add a book or suggest one
 └── books/
-    ├── _template.md   # copy this to start a new set of notes
     └── <book>.md      # one file per book
 ```
 
