@@ -1,49 +1,31 @@
-# All Things Fitness
+# Allthingsfitness
 
-A public, growing collection of markdown notes on the fitness books I read.
+A reading repo. Notes on books about training, physiology, recovery, and the psychology of
+getting stronger, plus whatever I end up believing after reading them.
 
-I can play pickleball for hours, write long lines of code and study late into the night, but
-fitness is the one thing I have never managed to make stick. So I am doing the thing that has
-always worked for me elsewhere: read, take notes, and keep them somewhere I have to look at them.
+The point is not to collect summaries. It is to force the question every book should have to
+answer: what would I actually do differently on Monday?
 
-These notes are open on purpose. If they nudge one more person to pick up a book and go for a
-walk, the repository has paid for itself.
+## Structure
 
-## Reading list
+- [books/](books/) - One file per book, plus an index of what is read, reading, and queued.
+- [books/_template.md](books/_template.md) - The shape every note follows.
+- [CONTRIBUTING.md](./CONTRIBUTING.md) - How to add a note, suggest a book, and the house rules.
 
-| Book | Author | Category | Status | Notes |
-| --- | --- | --- | --- | --- |
-| Bigger Leaner Stronger | Michael Matthews | Training / Nutrition | Reading | [Notes](./books/bigger-leaner-stronger.md) |
+## How I read here
 
-## How this repository is organised
+1. Read the book.
+2. Write the note from memory first, then go back and fix what I got wrong. What survives
+   memory is usually what mattered.
+3. End every note with something testable. A book that changes no behavior was entertainment,
+   which is fine, but it should be labeled as such.
+4. Record disagreements. The notes are more useful when they include what did not hold up.
 
-```
-.
-├── README.md          # this file, including the reading list above
-├── CONTRIBUTING.md    # how to add a book or suggest one
-└── books/
-    └── <book>.md      # one file per book
-```
+## A word on sourcing
 
-## How I take notes
-
-Every book gets one file with the same shape, so the notes stay comparable:
-
-- **Big ideas** — the argument in my own words, never copied out of the book.
-- **What I'm actually going to do** — the ideas turned into checkboxes I can tick.
-- **Where it didn't convince me** — honest push-back, because no book is entirely right.
-
-If a note has no action item, I have not really finished reading it.
-
-## Contributing
-
-Suggestions and notes from other readers are welcome — see [CONTRIBUTING.md](./CONTRIBUTING.md).
-
-## A note on copyright
-
-These files are summaries and personal reflections, not replacements for the books. Please do not
-add copied chapters, scanned pages or long extracts; keep quotations short and attributed, and
-buy the book if it helps you.
+These notes are my own summaries and reactions. Quotes are kept short and attributed, and
+nothing here is a substitute for the original. Where a book makes an empirical claim I try
+to note whether it is well supported, contested, or just a good story.
 
 ## Disclaimer
 

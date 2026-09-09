@@ -4,11 +4,11 @@ This is a personal reading log, but it is public and pull requests are welcome.
 
 ## Adding notes for a new book
 
-1. Create `books/<book-title>.md`, using a lowercase, hyphenated file name (e.g.
-   `books/born-to-run.md`), following the shape of an existing book file.
+1. Copy [`books/_template.md`](./books/_template.md) to `books/<book-title>.md`, using a
+   lowercase, hyphenated file name (e.g. `books/born-to-run.md`).
 2. Fill in the front matter list (author, category, status) and the sections.
-3. Add a row to the reading list table in [`README.md`](./README.md), keeping the columns in the
-   same order.
+3. Add a row to the right table in [`books/README.md`](./books/README.md), keeping the columns
+   in the same order.
 4. Open a pull request describing what the book changed for you.
 
 ## Suggesting a book
