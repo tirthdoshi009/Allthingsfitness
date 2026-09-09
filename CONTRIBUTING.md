@@ -4,12 +4,14 @@ This is a personal reading log, but it is public and pull requests are welcome.
 
 ## Adding notes for a new book
 
-1. Copy [`books/_template.md`](./books/_template.md) to `books/<book-title>.md`, using a
-   lowercase, hyphenated file name (e.g. `books/born-to-run.md`).
+1. Create `books/<book-title>.md`, using a lowercase, hyphenated file name (e.g.
+   `books/born-to-run.md`). Use an existing note such as
+   [`books/bigger-leaner-stronger.md`](./books/bigger-leaner-stronger.md) as the model.
 2. Fill in the metadata list at the top (author, published, category, status, optional
-   rating) and the one line thesis, then work through the sections in order.
-3. Add a row to the right table in [`books/README.md`](./books/README.md), keeping the columns
-   in the same order.
+   rating) and the one line thesis, then work through the sections in order: why I picked it
+   up, the core argument, ideas worth keeping, where I disagree, what I will actually do,
+   verdict.
+3. Add it to the notes list in [`README.md`](./README.md).
 4. Open a pull request describing what the book changed for you.
 
 ## Suggesting a book
