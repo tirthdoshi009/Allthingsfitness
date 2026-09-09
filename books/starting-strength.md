@@ -9,8 +9,9 @@ novice should add weight every session for as long as that keeps working.
 
 ## Why I picked it up
 
-I wanted a defensible answer to "what should a beginner do in the gym," one that does not
-change every time a new study gets posted.
+I picked it up because it is widely treated as a foundational barbell training manual:
+detailed instruction for the squat, press, deadlift, bench press, and power clean, plus a
+simple model for novice progression.
 
 ## The core argument
 
